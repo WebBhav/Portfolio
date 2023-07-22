@@ -50,7 +50,7 @@ class _Container1State extends State<Container1> {
             height: 5,
           ),
           Text(
-            'You\'ll find here all about Vaibhav Singhal',
+            'You\'ll find here all about Vaibhav Singhal ',
             textAlign: TextAlign.center,
             style: TextStyle(color: Colors.grey.shade600, fontSize: 16),
           ),
